@@ -29,3 +29,4 @@ app.use("/api/v1/projects", projectRoutes);
     app.use("/api/v1/admin", adminRoutes);
 
 export default app;
+
